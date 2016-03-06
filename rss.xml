@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[www.fivelements.it]]></title>
+        <description><![CDATA[www.fivelements.it]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 06 Mar 2016 15:11:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[La passione e' un seme dentro di noi che possiamo nutrire abbracciando il cambiamento]]></title>
+            <description><![CDATA[<article><h1>La passione e' un seme dentro di noi che possiamo nutrire abbracciando il cambiamento</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54405014dfdcdc52b3872f54e53ce96b9bd74119.png"></article>]]></description>
+            <link>undefinedla-passione-e-un-seme-dentro-di-noi-che-possiamo-nutrire-ab/index.html</link>
+            <guid isPermaLink="false">2125b6ce-d8c1-40b7-8a44-e2c33c6f0fe0</guid>
+            <pubDate>Sun, 06 Mar 2016 15:11:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
