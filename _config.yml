@@ -1,29 +1,41 @@
-name: www.fivelements.it
-favicon: null
-layout_spectrum: 0.8605707616079599
-typography_spectrum: 0.24541
 title: Il non luogo ove trovare uno spazio per scoprire e ricostruire se stessi
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.9687008
+  brandStrength: 0.165614144410938
+  lightness: 0.8308271
   brandColors:
     - '#71879e'
     - '#293239'
     - '#ffffff'
     - '#d0c4b4'
     - '#e9aa48'
-  brandStrength: 0.16561414441093802
-  lightness: 0.11881682300008833
-  saturation: 0.9687008466571569
-  rhythmicContrast: 0.8865768690593541
-purpose: []
+  rhythmicContrast: 0.8865769
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: www.fivelements.it
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.24541
+layout_spectrum: 0.6810777
