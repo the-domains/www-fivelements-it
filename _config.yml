@@ -1,0 +1,28 @@
+name: www.fivelements.it
+favicon: null
+layout_spectrum: 0.8605707616079599
+typography_spectrum: 0.15613076090812683
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.16561414441093802
+  lightness: 0.11881682300008833
+  saturation: 0.9687008466571569
+  rhythmicContrast: 0.8865768690593541
+purpose: []
