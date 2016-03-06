@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[www.fivelements.it]]></title>
         <description><![CDATA[www.fivelements.it]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/www-fivelements-it/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:11:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 15:11:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/www-fivelements-it/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[La passione e' un seme dentro di noi che possiamo nutrire abbracciando il cambiamento]]></title>
             <description><![CDATA[<article><h1>La passione e' un seme dentro di noi che possiamo nutrire abbracciando il cambiamento</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54405014dfdcdc52b3872f54e53ce96b9bd74119.png"></article>]]></description>
-            <link>undefinedla-passione-e-un-seme-dentro-di-noi-che-possiamo-nutrire-ab/index.html</link>
+            <link>https://thegrid.ai/www-fivelements-it/la-passione-e-un-seme-dentro-di-noi-che-possiamo-nutrire-ab/index.html</link>
             <guid isPermaLink="false">2125b6ce-d8c1-40b7-8a44-e2c33c6f0fe0</guid>
+            <pubDate>Sun, 06 Mar 2016 15:11:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdfc9968-5406-4c84-a28d-fbbc0d7eedf1.jpg">]]></description>
+            <link>https://thegrid.ai/www-fivelements-it/c5942ddb-0d24-4b40-b843-48a2a9d86e9d/index.html</link>
+            <guid isPermaLink="false">c5942ddb-0d24-4b40-b843-48a2a9d86e9d</guid>
             <pubDate>Sun, 06 Mar 2016 15:11:27 GMT</pubDate>
         </item>
     </channel>
